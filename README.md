@@ -1,5 +1,6 @@
 # 14강 비디오 재생 앱 만들기
 
+```
 //
 // ViewController.swift
 // MoviePlayer
@@ -42,3 +43,5 @@ private func playVideo(url: NSURL){
     
 }
 }
+
+```
